@@ -113,9 +113,11 @@ streamlit run app.py
 
 ## **Demo**
 ![image](https://github.com/user-attachments/assets/02eb248e-f0ff-4172-bc14-5aceeaed8298)
-### **Ham Mail:**
-![image](https://github.com/user-attachments/assets/fa8ee6e9-cfac-4ead-8a26-5d47e001ca06)
-### **Spam Mail:**
+### **Not Spam:**
+![image](https://github.com/user-attachments/assets/2b4a0fbf-e9b4-4789-afaa-a4253a0c395e)
+
+### **Spam:**
+![image](https://github.com/user-attachments/assets/c822b687-9e16-468b-b2bb-4a799141b454)
 
 
 ---
