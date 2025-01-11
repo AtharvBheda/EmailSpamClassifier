@@ -22,7 +22,7 @@ This project is an **Email Spam Classifier** built using Python, NLP, and Machin
 ---
 
 ## **Dataset**
-The project uses the [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection), which contains labeled text messages (spam or not spam). It includes:
+The project uses the [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset), which contains labeled text messages (spam or not spam). It includes:
 - **5574 samples**: 
   - 4827 ham (not spam)
   - 747 spam
@@ -112,7 +112,11 @@ streamlit run app.py
 ---
 
 ## **Demo**
-[Include screenshots or a GIF demonstrating the app in action. If deployed, link to the live demo.]
+![image](https://github.com/user-attachments/assets/02eb248e-f0ff-4172-bc14-5aceeaed8298)
+### **Ham Mail:**
+![image](https://github.com/user-attachments/assets/fa8ee6e9-cfac-4ead-8a26-5d47e001ca06)
+### **Spam Mail:**
+
 
 ---
 
